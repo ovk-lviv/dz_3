@@ -1,0 +1,42 @@
+{
+	"student": {
+		"lastName": "Doe",
+		"middleName": "Spencer",
+		"firstName": "John",
+		"age": 25,
+		"phoneNumber": "+13333333",
+		"address": {
+			"country": "US",
+			"state": "Massachusetts",
+			"city": "Boston",
+			"street": "10, Main",
+			"apartment": ""
+		},
+		"socialAccounts": [
+			{
+				"name": "instagram",
+				"account": "@john_doe"
+			},
+			{
+				"name": "linkedin",
+				"account": "John_Doe123"
+			}
+		],
+		"education": [
+			"Baltimore High",
+			"Baltimore Municipal College",
+			"Baltimore Music Amateur School"
+		],
+		"languages": [
+			{
+				"language": "English",
+				"level": "native"
+			},
+			{
+				"language": "Spanish",
+				"level": "B1"
+			}
+		],
+		"isResident": false
+	}
+}

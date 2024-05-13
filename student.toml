@@ -1,0 +1,28 @@
+title = "student"
+
+[personal_info]
+firstName = "John"
+middleName = "Spencer"
+lastName = "Doe"
+age = 25
+phoneNumber = "+13333333"
+
+[address]
+city = "Boston"
+state = "Massachusetts"
+street = "10, Main"
+apartment = nan
+
+[socialAccounts]
+account1 = { name = "instagram", account = "@John_Doe" }
+account2 = { name = "linkedin", account = "John_Doe123" }
+
+[education]
+schools = ["Baltimore High", "Baltimore Municipal College", "Baltimore Music Amateur School"]
+
+[languages]
+language1 = {name="English", level = "native"}
+language2 = {name="Spanish", level = "B1"}
+
+[residence]
+isResident = false

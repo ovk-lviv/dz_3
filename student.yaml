@@ -1,0 +1,28 @@
+---
+student:
+  lastName: Doe
+  middleName: Spencer
+  firstName: John
+  age: 25
+  phoneNumber: 13333333
+  address:
+    country: US
+    state: Massachusetts
+    city: Boston
+    street: 10, Main
+    apartment: null
+  socialAccounts:
+    name1: instagram
+    account1: at_john_doe
+    name2: linkedin
+    account2: John_Doe123
+  education:
+    - Baltimore High
+    - Baltimore Municipal College
+    - Baltimore Music Amateur School
+  languages:
+    language1: English
+    levelLanguage1: native
+    language2: Spanish,
+    levelLanguage2: B1
+  isResident: false

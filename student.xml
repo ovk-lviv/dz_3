@@ -1,0 +1,30 @@
+<student>
+	<name>John</name>
+	<middleName>Spencer</middleName>
+	<lastName>Doe</lastName>
+	<age>25</age>
+	<phoneNumber>+13333333</phoneNumber>
+	<address>
+		<city>Boston</city>
+		<state>Massachusetts</state>
+		<street>10, Main</street>
+		<apartment></apartment>
+	</address>
+	<socialAccounts>
+		<instagram>@john_doe</instagram>
+		<linkedin>John_Doe123</linkedin>
+		<facebook></facebook>
+	</socialAccounts>
+	<education>
+		<school>Baltimore High</school>
+		<school>Baltimore Municipal College</school>
+		<school>Baltimore Music Amateur School</school>
+	</education>
+	<languages>
+		<language>English</language>
+		<level>native</level>
+		<language>Spanish</language>
+		<level>B1</level>
+	</languages>
+	<isResident>"false"</isResident>	
+</student>
